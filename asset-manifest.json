@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gitproduct-list/static/css/main.0bef7abe.css",
+    "main.js": "/gitproduct-list/static/js/main.8ebe3f00.js",
+    "index.html": "/gitproduct-list/index.html",
+    "main.0bef7abe.css.map": "/gitproduct-list/static/css/main.0bef7abe.css.map",
+    "main.8ebe3f00.js.map": "/gitproduct-list/static/js/main.8ebe3f00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bef7abe.css",
+    "static/js/main.8ebe3f00.js"
+  ]
+}
